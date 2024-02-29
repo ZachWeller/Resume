@@ -741,12 +741,25 @@ video {
   padding-right: 1.25rem;
 }
 
+.px-10 {
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
+}
+
 .pt-5 {
   padding-top: 1.25rem;
 }
 
+.pb-20 {
+  padding-bottom: 5rem;
+}
+
 .text-center {
   text-align: center;
+}
+
+.text-justify {
+  text-align: justify;
 }
 
 .font-abel {
@@ -786,6 +799,11 @@ video {
 .text-sm {
   font-size: 0.875rem;
   line-height: 1.25rem;
+}
+
+.text-8xl {
+  font-size: 6rem;
+  line-height: 1;
 }
 
 .font-bold {
